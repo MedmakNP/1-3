@@ -48,5 +48,6 @@ function DataTable(config, data) {
    {id: 30051, name: 'Вася', surname: 'Васечкин', age: 15},
  ];
  
+
  DataTable(config1, users);
  
